@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Eva-01",
+      "precio": 1000,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s"
+    },
+    {
+      "id": "2",
+      "nombre": "Eva-01",
+      "precio": "1000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s"
+    },
+    {
+      "id": "3",
+      "nombre": "Eva-01",
+      "precio": "1000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s"
+    },
+    {
+      "id": "4",
+      "nombre": "Eva-01",
+      "precio": "1000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s"
+    },
+    {
+      "id": "5",
+      "nombre": "Eva-01",
+      "precio": "1000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s"
+    },
+    {
+      "id": "6",
+      "nombre": "Eva-01",
+      "precio": "1000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s"
+    },
+    {
+      "id": "fa21",
+      "nombre": "elias",
+      "precio": "hhgyug",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1xMA9KLbydgJYOdJwxSMRW8GOWKcMPbZqsfQBlZ4UQ&s"
+    },
+    {
+      "id": "cf00",
+      "nombre": "elias",
+      "precio": "hhgyug",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1xMA9KLbydgJYOdJwxSMRW8GOWKcMPbZqsfQBlZ4UQ&s"
+    },
+    {
+      "id": "e4a6",
+      "nombre": "elias",
+      "precio": "hhgyug",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1xMA9KLbydgJYOdJwxSMRW8GOWKcMPbZqsfQBlZ4UQ&s"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+@media (min-width: 400px ) {
+    .main__encabezado {
+        display: flex;
+        justify-content: center;
+        box-shadow: 5px 5px;
+    }
+
+    .encabezado {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        flex-direction: row;
+    }
+
+    .logo__text {
+        color: white;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .formululario {
+        padding: 50px;
+    }
+
+    .title__productos {
+        padding: 50px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .card {
+        padding: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        height: 715px;
+        overflow-y: scroll;
+    }
+
+    .img__producto {
+        width: 154px;
+        height: 140px;
+    }
+
+    .mostrar__items {
+        width: 50%;
+    }
+
+    .card {
+        padding: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        height: 715px;
+        width: 320px;
+        overflow-y: scroll;
+    }
+    
+    .card {
+        padding: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        height: 715px;
+        overflow-y: scroll;
+    }
+
+    .formululario {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .productos__item {
+        text-align: justify;
+        gap: 5px;
+        width: 50%;
+        background-color: #5D04D9;
+        align-items: center;
+        width: 150px;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        border-radius: 15px;
+        border-color: black;
+        flex-direction: column;
+    }
+
+    .productos__item {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: larger;
+    }
+
+    .img__producto {
+        width: 120px;
+        height: 120px;
+    }
+
+
+    .formululario__principal {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__finale {
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+    }
+
+    .img__footer {
+        width: 150px;
+        height: 70px;
+    }
+
+    .footer__text {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 25px;
+        flex-direction: column;
+    }
+
+}
+    
+
+
+
+@media(min-width: 1080px) {
+
+    /*encabezado*/
+    .main__encabezado {
+        display: flex;
+        justify-content: center;
+        box-shadow: 5px 5px;
+    }
+
+    .encabezado {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 25px;
+        flex-direction: row;
+    }
+
+    .logo__text {
+        color: white;
+    }
+
+    .img__logo {
+        width: 150px;
+        height: 70px;
+    }
+
+    /*contenido Items*/
+
+    .container {
+        flex-direction: row;
+        justify-content: space-between;
+        display: flex;
+        padding: 40px;
+    }
+
+    .title__productos {
+        padding: 50px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .mostrar__items {
+        width: 50%;
+    }
+
+    .card {
+        padding: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        height: 715px;
+        width: 800px;
+        overflow-y: scroll;
+    }
+
+    .formululario {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .productos__item {
+        text-align: justify;
+        gap: 5px;
+        width: 50%;
+        background-color: #5D04D9;
+        align-items: center;
+        width: 250px;
+        height: 280px;
+        display: flex;
+        justify-content: center;
+        border-radius: 15px;
+        border-color: black;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: larger;
+        flex-direction: column;
+    }
+
+
+    .img__producto {
+        width: 174px;
+        height: 170px;
+    }
+
+
+    .formululario__principal {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__finale {
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+    }
+
+    .img__footer {
+        width: 150px;
+        height: 70px;
+    }
+
+    .footer__text {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 25px;
+        flex-direction: column;
+    }
+
+}
+

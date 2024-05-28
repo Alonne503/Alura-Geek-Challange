@@ -1,0 +1,14 @@
+{
+  "name": "new_alurageek",
+  "version": "1.0.0",
+  "description": "sistema crud",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}

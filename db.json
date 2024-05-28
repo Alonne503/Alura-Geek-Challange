@@ -1,0 +1,34 @@
+{
+    "productos": [
+        {
+            "name":"Eva-01",
+            "price": "1000",
+            "image": "https://static.wikia.nocookie.net/evangelion/images/2/2c/Evangelion_Unit-01_front1.png/revision/latest?cb=20190520193846.webp",
+            "id": 1
+        },
+        {
+            "name":"Eva-01",
+            "price": "1000",
+            "image": "",
+            "id": 2
+        },
+        {
+            "name":"Eva-01",
+            "price": "1000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s",
+            "id": 3
+        },
+        {
+            "name":"Eva-01",
+            "price": "1000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s",
+            "id": 4
+        },
+        {
+            "name":"Eva-01",
+            "price": "1000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9XFYe4oS-ctwNzs8qc37N2RsCK6UGhWV1UiadlhHfw&s",
+            "id": 5
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/flexbox.css">
+    <link href='https://fonts.googleapis.com/css?family=Press Start 2P' rel='stylesheet'>
+    <title>Alura geek</title>
+</head>
+
+<body>
+
+    <!--encabezado-->
+    <header class="main__encabezado">
+        <nav class="encabezado">
+            <img class="img__logo" src="./img/logo.jpg" alt="">
+            <h1 class="logo__text">AluraGeek</h1>
+
+        </nav>
+    </header>
+
+
+    <main class="container">
+        <!--<div class="title__productos">
+            <h3>Productos:</h3>
+        </div>-->
+        <section class="mostrar__items">
+            <h3 class="title__productos">Productos:</h3>
+            <div data-product  class="card">
+            </div>
+
+        </section>
+        <section class="formululario">
+
+            <div class="caja__formululario">
+                <h1>Agregar productos:</h1>
+                <div class="formululario__form">
+                    <form data-form class="formululario__principal ">
+
+                        <input data-name name="nombre" id="nombre" class="campo campo_menor" placeholder="Nombre..." type="text">
+
+
+                        <input data-price name="precio" id="precio" class="campo campo_menor" placeholder="Precio..." type="text">
+
+
+                        <input data-image name="imagen" id="imagen" class="campo campo_menor" placeholder="Imagen..." type="text">
+                        <button class="boton boton_enviar" type="submit">Enviar</button>
+                        <button class="boton boton_reset" type="reset">limpiar</button>
+                    </form>
+
+
+                </div>
+            </div>
+        </section>
+    </main>
+    <section class="footer__finale">
+        <div class="encabezado">
+            
+            <h1 class="logo__text"><img class="img__logo" src="./img/logo.jpg" alt="">AluraGeek</h1>
+        </div>
+        <div class="footer__text">
+            <p class="logo__text">Desarrollado por Luis Elias Jiménez Guardado</p>
+            <p class="logo__text">ALURA LATAM 2024</p>
+        </div>
+
+        </div>
+    </section>
+    <script type="module" src="./js/controllers/main.js"></script>
+</body>
+
+</html>
